@@ -1,0 +1,8 @@
+C:\Users\Ramseeys\source\repos\ZadaciZaVjezbu2\ZadaciZaVjezbu2\bin\Debug\ZadaciZaVjezbu2.exe.config
+C:\Users\Ramseeys\source\repos\ZadaciZaVjezbu2\ZadaciZaVjezbu2\bin\Debug\ZadaciZaVjezbu2.exe
+C:\Users\Ramseeys\source\repos\ZadaciZaVjezbu2\ZadaciZaVjezbu2\bin\Debug\ZadaciZaVjezbu2.pdb
+C:\Users\Ramseeys\source\repos\ZadaciZaVjezbu2\ZadaciZaVjezbu2\obj\Debug\ZadaciZaVjezbu2.csproj.AssemblyReference.cache
+C:\Users\Ramseeys\source\repos\ZadaciZaVjezbu2\ZadaciZaVjezbu2\obj\Debug\ZadaciZaVjezbu2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ramseeys\source\repos\ZadaciZaVjezbu2\ZadaciZaVjezbu2\obj\Debug\ZadaciZaVjezbu2.csproj.CoreCompileInputs.cache
+C:\Users\Ramseeys\source\repos\ZadaciZaVjezbu2\ZadaciZaVjezbu2\obj\Debug\ZadaciZaVjezbu2.exe
+C:\Users\Ramseeys\source\repos\ZadaciZaVjezbu2\ZadaciZaVjezbu2\obj\Debug\ZadaciZaVjezbu2.pdb
